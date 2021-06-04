@@ -1,4 +1,4 @@
-[![Screenshot](https://github.com/pinco227/itservices/blob/main/images/screenshot.jpg)](https://pinco227.github.io/itservices/)
+[![Screenshot](https://github.com/pinco227/itservices/blob/main/images/screenshot.png)](https://pinco227.github.io/itservices/)
 # IT Services
 ## 2010
 ### HTML, CSS, Photoshop
